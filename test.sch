@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:moja_biblioteka
 LIBS:test-rescue
 LIBS:power
 LIBS:device
@@ -30,6 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:moja_biblioteka
 LIBS:test-cache
 EELAYER 25 0
 EELAYER END
@@ -792,17 +792,6 @@ F 3 "" H 775 3225 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L M+3.6V +3.6V?
-U 1 1 58BF1612
-P 1100 675
-F 0 "+3.6V?" H 1170 695 25  0001 C CNN
-F 1 "M+3.6V" H 1090 815 50  0001 C CNN
-F 2 "" H 1100 675 60  0001 C CNN
-F 3 "" H 1100 675 60  0001 C CNN
-	1    1100 675 
-	1    0    0    -1  
-$EndComp
-$Comp
 L M+5V +5V?
 U 1 1 58BF16EE
 P 1300 675
@@ -929,4 +918,15 @@ Text Label 1400 2225 0    30   ~ 0
 URT3_RX
 Text Label 1400 2325 0    30   ~ 0
 URT3_TX
+$Comp
+L M+3.3V +3.3V?
+U 1 1 58C70A6B
+P 1100 675
+F 0 "+3.3V?" H 1170 695 25  0001 C CNN
+F 1 "M+3.3V" H 1090 815 50  0001 C CNN
+F 2 "" H 1100 675 60  0001 C CNN
+F 3 "" H 1100 675 60  0001 C CNN
+	1    1100 675 
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
