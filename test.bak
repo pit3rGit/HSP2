@@ -61,9 +61,7 @@ Wire Wire Line
 Wire Wire Line
 	4675 3325 4675 3100
 Wire Wire Line
-	6200 3100 6200 3500
-Wire Wire Line
-	6200 3500 6200 3575
+	6200 3100 6200 3575
 Wire Wire Line
 	4250 4425 4050 4425
 Wire Wire Line
@@ -74,15 +72,7 @@ Wire Wire Line
 Wire Wire Line
 	4100 4500 4100 3150
 Wire Wire Line
-	3775 3150 4100 3150
-Wire Wire Line
-	4100 3150 4600 3150
-Wire Wire Line
-	4600 3150 4750 3150
-Wire Wire Line
-	4750 3150 5750 3150
-Wire Wire Line
-	5750 3150 5900 3150
+	3775 3150 5900 3150
 Wire Wire Line
 	5750 3150 5750 3675
 Wire Wire Line
@@ -128,9 +118,7 @@ F 3 "" H 3775 3300 50  0000 C CNN
 $EndComp
 Connection ~ 4100 3150
 Wire Wire Line
-	4050 3100 4675 3100
-Wire Wire Line
-	4675 3100 6200 3100
+	4050 3100 6200 3100
 Connection ~ 4675 3100
 Connection ~ 4100 4500
 Connection ~ 5900 3500
@@ -223,9 +211,7 @@ Wire Wire Line
 Wire Wire Line
 	5050 3325 5050 3000
 Wire Wire Line
-	5050 3000 6650 3000
-Wire Wire Line
-	6650 3000 8475 3000
+	5050 3000 8475 3000
 Wire Wire Line
 	8475 2925 8475 3825
 Wire Wire Line
@@ -235,9 +221,7 @@ Wire Wire Line
 Wire Wire Line
 	8400 2975 8400 3750
 Wire Wire Line
-	4975 3050 6750 3050
-Wire Wire Line
-	6750 3050 8400 3050
+	4975 3050 8400 3050
 Wire Wire Line
 	4975 3050 4975 3325
 $Comp
@@ -500,17 +484,11 @@ $EndComp
 Wire Wire Line
 	8600 2400 8400 2400
 Wire Wire Line
-	8600 1750 8600 2025
-Wire Wire Line
-	8600 2025 8600 2400
+	8600 1750 8600 2400
 Wire Wire Line
 	8600 1750 7275 1750
 Wire Wire Line
-	7275 1750 7275 2025
-Wire Wire Line
-	7275 2025 7275 2250
-Wire Wire Line
-	7275 2250 7275 2300
+	7275 1750 7275 2300
 Wire Wire Line
 	8400 2025 8600 2025
 Connection ~ 8600 2025
@@ -577,13 +555,9 @@ Wire Wire Line
 Wire Wire Line
 	7425 5850 6375 5850
 Wire Wire Line
-	5700 4275 6125 4275
+	5700 4275 6175 4275
 Wire Wire Line
-	6125 4275 6175 4275
-Wire Wire Line
-	7050 4400 7050 4550
-Wire Wire Line
-	7050 4550 7050 5025
+	7050 4400 7050 5025
 Text Label 6375 5250 0    30   ~ 0
 SPI_MISO
 Text Label 6375 4950 0    30   ~ 0
@@ -621,9 +595,7 @@ Wire Wire Line
 Wire Wire Line
 	5900 3750 5700 3750
 Wire Wire Line
-	5900 3475 5900 3500
-Wire Wire Line
-	5900 3500 5900 3750
+	5900 3475 5900 3750
 Wire Wire Line
 	5900 3150 5900 3175
 Text Label 6775 4050 0    30   ~ 0
@@ -659,11 +631,7 @@ CS_FLA
 Entry Bus Bus
 	6175 5150 6275 5250
 Wire Bus Line
-	5375 5150 5450 5150
-Wire Bus Line
-	5450 5150 5525 5150
-Wire Bus Line
-	5525 5150 6175 5150
+	5375 5150 6175 5150
 Entry Wire Line
 	6275 4775 6375 4875
 Entry Wire Line
@@ -679,39 +647,11 @@ Wire Wire Line
 Wire Wire Line
 	7425 3900 6775 3900
 Wire Bus Line
-	6675 3800 6675 3950
-Wire Bus Line
-	6675 3950 6675 4025
-Wire Bus Line
-	6675 4025 6675 4100
-Wire Bus Line
-	6675 4100 6675 4200
+	6675 3800 6675 4200
 Wire Bus Line
 	6675 4200 6275 4200
 Wire Bus Line
-	6275 4200 6275 4300
-Wire Bus Line
-	6275 4300 6275 4375
-Wire Bus Line
-	6275 4375 6275 4450
-Wire Bus Line
-	6275 4450 6275 4775
-Wire Bus Line
-	6275 4775 6275 4850
-Wire Bus Line
-	6275 4850 6275 5000
-Wire Bus Line
-	6275 5000 6275 5150
-Wire Bus Line
-	6275 5150 6275 5250
-Wire Bus Line
-	6275 5250 6275 5600
-Wire Bus Line
-	6275 5600 6275 5675
-Wire Bus Line
-	6275 5675 6275 5750
-Wire Bus Line
-	6275 5750 6275 5825
+	6275 4200 6275 5825
 Wire Wire Line
 	7425 5925 6375 5925
 Text Label 6375 5925 0    30   ~ 0
@@ -723,9 +663,7 @@ CS_ESP
 Wire Wire Line
 	8400 2625 8800 2625
 Wire Wire Line
-	8400 2700 8750 2700
-Wire Wire Line
-	8750 2700 8800 2700
+	8400 2700 8800 2700
 Wire Wire Line
 	8600 2775 8800 2775
 Wire Wire Line
@@ -768,9 +706,7 @@ Wire Wire Line
 Wire Wire Line
 	8650 2475 8650 2275
 Wire Wire Line
-	8650 2275 8750 2275
-Wire Wire Line
-	8750 2275 9625 2275
+	8650 2275 9625 2275
 Connection ~ 8750 2275
 Wire Wire Line
 	8750 2300 8750 2275
@@ -920,12 +856,6 @@ F 3 "" H 1500 1550 60  0001 C CNN
 	1    1500 1550
 	1    0    0    -1  
 $EndComp
-Wire Notes Line
-	1100 625  1100 6550
-Wire Notes Line
-	1300 625  1300 6550
-Wire Notes Line
-	1500 625  1500 6550
 Wire Wire Line
 	1300 1550 1300 1375
 Wire Wire Line
@@ -940,15 +870,11 @@ Wire Wire Line
 	6175 4200 5700 4200
 Connection ~ 6125 4275
 Wire Bus Line
-	6000 3925 6000 4000
-Wire Bus Line
-	6000 4000 6000 6450
+	6000 3925 6000 6450
 Wire Bus Line
 	6000 6450 1700 6450
 Wire Bus Line
-	1700 6450 1700 1375
-Wire Bus Line
-	1700 1375 1700 1275
+	1700 6450 1700 1275
 Entry Wire Line
 	5900 3900 6000 4000
 Wire Wire Line
@@ -972,5 +898,35 @@ Wire Wire Line
 Text Label 1400 1175 0    30   ~ 0
 URT3_RX
 Text Label 1400 1275 0    30   ~ 0
+URT3_TX
+Entry Wire Line
+	1600 3275 1700 3375
+Entry Wire Line
+	1600 3375 1700 3475
+Wire Wire Line
+	975  3275 1600 3275
+Wire Wire Line
+	975  3375 1600 3375
+Text Label 1400 3275 0    30   ~ 0
+URT3_RX
+Text Label 1400 3375 0    30   ~ 0
+URT3_TX
+Wire Notes Line
+	1100 625  1100 6550
+Wire Notes Line
+	1300 625  1300 6550
+Wire Notes Line
+	1500 625  1500 6550
+Entry Wire Line
+	1600 2225 1700 2325
+Entry Wire Line
+	1600 2325 1700 2425
+Wire Wire Line
+	975  2225 1600 2225
+Wire Wire Line
+	975  2325 1600 2325
+Text Label 1400 2225 0    30   ~ 0
+URT3_RX
+Text Label 1400 2325 0    30   ~ 0
 URT3_TX
 $EndSCHEMATC
