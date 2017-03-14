@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 update=2017-03-13 22:09:35
+=======
+update=wto, 14 mar 2017, 15:54:47
+>>>>>>> f68d26c02699174c3f2340954c5a2cd0161f860e
 version=1
 last_client=kicad
 [pcbnew]
