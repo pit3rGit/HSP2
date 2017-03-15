@@ -213,13 +213,9 @@ Wire Wire Line
 Wire Wire Line
 	6300 2150 9725 2150
 Wire Wire Line
-	9725 2075 9725 2975
-Wire Wire Line
 	9725 2975 9575 2975
 Wire Wire Line
 	9650 2900 9575 2900
-Wire Wire Line
-	9650 2125 9650 2900
 Wire Wire Line
 	6225 2200 9650 2200
 Wire Wire Line
@@ -1855,4 +1851,8 @@ Entry Bus Bus
 	1700 5675 1800 5775
 Wire Bus Line
 	7250 5775 1800 5775
+Wire Wire Line
+	9650 2200 9650 2900
+Wire Wire Line
+	9725 2150 9725 2975
 $EndSCHEMATC
