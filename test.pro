@@ -1,4 +1,4 @@
-update=2017-03-14 23:21:21
+update=śro, 15 mar 2017, 15:57:33
 version=1
 last_client=kicad
 [pcbnew]
@@ -57,7 +57,7 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=D:/GitHubRepo/KiCadLibs/moja_biblioteka
+LibName31=../KiCadLibs/moja_biblioteka
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
