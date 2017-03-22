@@ -1,4 +1,4 @@
-update=czw, 16 mar 2017, 14:28:57
+update=2017-03-22 21:16:50
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,16 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -58,15 +68,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=../KiCadLibs/moja_biblioteka
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [general]
 version=1
