@@ -1,4 +1,4 @@
-update=2017-06-26 20:51:32
+update=10.07.2017 17:12:45
 version=1
 last_client=kicad
 [pcbnew]
@@ -57,6 +57,9 @@ LibName30=contrib
 LibName31=valves
 LibName32=stm32
 LibName33=maxim
+[cvpcb]
+version=1
+NetIExt=net
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -67,8 +70,5 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
-[cvpcb]
-version=1
-NetIExt=net
 [general]
 version=1
