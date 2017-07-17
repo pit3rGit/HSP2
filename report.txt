@@ -1,0 +1,2128 @@
+Informacja:Wczytuję listę sieci "D:\GitHubRepo\HSP2\test.net".
+
+Informacja:Użyj nazw odnośników przy łączeniu komponentów z footprintami.
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "BT1:/593CB365:footprints:CONNFLY_DS1092-13-N8S".
+
+Dodaję nowy komponent "BT1:/593CB365" o footprincie "footprints:CONNFLY_DS1092-13-N8S".
+
+Zmieniam nazwę sieci komponentu "BT1:/593CB365" pin "1" z "" na "/RTC_BAT".
+
+Zmieniam nazwę sieci komponentu "BT1:/593CB365" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C1:/594A6122:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C1:/594A6122" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C1:/594A6122" pin "1" z "" na "Net-(C1-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C1:/594A6122" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C2:/594A64E9:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C2:/594A64E9" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C2:/594A64E9" pin "1" z "" na "Net-(C2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C2:/594A64E9" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C3:/594A7CE6:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C3:/594A7CE6" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C3:/594A7CE6" pin "1" z "" na "Net-(C3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C3:/594A7CE6" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C4:/594A7DAE:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C4:/594A7DAE" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C4:/594A7DAE" pin "1" z "" na "Net-(C4-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C4:/594A7DAE" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C5:/594A92C0:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C5:/594A92C0" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C5:/594A92C0" pin "1" z "" na "Net-(C5-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C5:/594A92C0" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C6:/594A9388:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C6:/594A9388" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C6:/594A9388" pin "1" z "" na "Net-(C6-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C6:/594A9388" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C7:/594A6116:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C7:/594A6116" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C7:/594A6116" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C7:/594A6116" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C8:/594A64DD:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C8:/594A64DD" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C8:/594A64DD" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C8:/594A64DD" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C9:/594A7CDA:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C9:/594A7CDA" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C9:/594A7CDA" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C9:/594A7CDA" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C10:/594A7DA2:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C10:/594A7DA2" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C10:/594A7DA2" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C10:/594A7DA2" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C11:/594A92B4:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C11:/594A92B4" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C11:/594A92B4" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C11:/594A92B4" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C12:/594A937C:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C12:/594A937C" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C12:/594A937C" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C12:/594A937C" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C13:/592E9547:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C13:/592E9547" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C13:/592E9547" pin "1" z "" na "Net-(C13-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C13:/592E9547" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C14:/592E9358:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C14:/592E9358" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C14:/592E9358" pin "1" z "" na "Net-(C14-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C14:/592E9358" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C15:/593A04A0:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C15:/593A04A0" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C15:/593A04A0" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C15:/593A04A0" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C16:/5939B05E:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C16:/5939B05E" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C16:/5939B05E" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C16:/5939B05E" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C17:/592E9456:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C17:/592E9456" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C17:/592E9456" pin "1" z "" na "Net-(C17-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C17:/592E9456" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C18:/592C5508:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C18:/592C5508" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C18:/592C5508" pin "1" z "" na "Net-(C18-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C18:/592C5508" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C19:/59318676:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C19:/59318676" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C19:/59318676" pin "1" z "" na "/BAT1_POM".
+
+Zmieniam nazwę sieci komponentu "C19:/59318676" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C20:/593ACEC6:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C20:/593ACEC6" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C20:/593ACEC6" pin "1" z "" na "/BAT2_POM".
+
+Zmieniam nazwę sieci komponentu "C20:/593ACEC6" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C21:/596A2AD7:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C21:/596A2AD7" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C21:/596A2AD7" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C21:/596A2AD7" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C22:/5949FF8E:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C22:/5949FF8E" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C22:/5949FF8E" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C22:/5949FF8E" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C23:/5966BD4F:footprints:2917in_7343mm".
+
+Dodaję nowy komponent "C23:/5966BD4F" o footprincie "footprints:2917in_7343mm".
+
+Zmieniam nazwę sieci komponentu "C23:/5966BD4F" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C23:/5966BD4F" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C24:/58AEB956:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C24:/58AEB956" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C24:/58AEB956" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C24:/58AEB956" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C25:/593B25F0:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C25:/593B25F0" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C25:/593B25F0" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C25:/593B25F0" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C26:/596965B7:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C26:/596965B7" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C26:/596965B7" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C26:/596965B7" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C27:/59778B47:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C27:/59778B47" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C27:/59778B47" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C27:/59778B47" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C28:/596538B4:footprints:2917in_7343mm".
+
+Dodaję nowy komponent "C28:/596538B4" o footprincie "footprints:2917in_7343mm".
+
+Zmieniam nazwę sieci komponentu "C28:/596538B4" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C28:/596538B4" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C29:/593B574A:Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Dodaję nowy komponent "C29:/593B574A" o footprincie "Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Zmieniam nazwę sieci komponentu "C29:/593B574A" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C29:/593B574A" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C30:/5948833F:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C30:/5948833F" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C30:/5948833F" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C30:/5948833F" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C31:/597D638F:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C31:/597D638F" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C31:/597D638F" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C31:/597D638F" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C32:/58C97B28:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C32:/58C97B28" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C32:/58C97B28" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C32:/58C97B28" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C33:/5977D5ED:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C33:/5977D5ED" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C33:/5977D5ED" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C33:/5977D5ED" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C34:/59779A99:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C34:/59779A99" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C34:/59779A99" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C34:/59779A99" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C35:/5931467D:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C35:/5931467D" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C35:/5931467D" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C35:/5931467D" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C36:/58C97B35:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C36:/58C97B35" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C36:/58C97B35" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C36:/58C97B35" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C37:/597D639B:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C37:/597D639B" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C37:/597D639B" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C37:/597D639B" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C38:/58D33673:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C38:/58D33673" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C38:/58D33673" pin "1" z "" na "/RTC_BAT".
+
+Zmieniam nazwę sieci komponentu "C38:/58D33673" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C39:/59431F0F:footprints:2917in_7343mm".
+
+Dodaję nowy komponent "C39:/59431F0F" o footprincie "footprints:2917in_7343mm".
+
+Zmieniam nazwę sieci komponentu "C39:/59431F0F" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C39:/59431F0F" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C40:/597D63C0:footprints:2917in_7343mm".
+
+Dodaję nowy komponent "C40:/597D63C0" o footprincie "footprints:2917in_7343mm".
+
+Zmieniam nazwę sieci komponentu "C40:/597D63C0" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C40:/597D63C0" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C41:/59325BE5:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C41:/59325BE5" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C41:/59325BE5" pin "1" z "" na "Net-(C41-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C41:/59325BE5" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C42:/59325890:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C42:/59325890" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C42:/59325890" pin "1" z "" na "Net-(C41-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C42:/59325890" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C43:/58D3665F:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C43:/58D3665F" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C43:/58D3665F" pin "1" z "" na "Net-(C43-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C43:/58D3665F" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C44:/594E73C0:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C44:/594E73C0" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C44:/594E73C0" pin "1" z "" na "Net-(C44-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C44:/594E73C0" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C45:/59314689:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C45:/59314689" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C45:/59314689" pin "1" z "" na "Net-(C45-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C45:/59314689" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C46:/5933D5CB:Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Dodaję nowy komponent "C46:/5933D5CB" o footprincie "Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Zmieniam nazwę sieci komponentu "C46:/5933D5CB" pin "1" z "" na "Net-(C45-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C46:/5933D5CB" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C47:/5980A533:Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Dodaję nowy komponent "C47:/5980A533" o footprincie "Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Zmieniam nazwę sieci komponentu "C47:/5980A533" pin "1" z "" na "Net-(C47-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C47:/5980A533" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C48:/596E8EAB:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C48:/596E8EAB" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C48:/596E8EAB" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C48:/596E8EAB" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C49:/58AF13FE:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C49:/58AF13FE" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C49:/58AF13FE" pin "1" z "" na "Net-(C47-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C49:/58AF13FE" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C50:/596ED725:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C50:/596ED725" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C50:/596ED725" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C50:/596ED725" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C51:/593A7EC3:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C51:/593A7EC3" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C51:/593A7EC3" pin "1" z "" na "Net-(C45-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C51:/593A7EC3" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C52:/59440D5B:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C52:/59440D5B" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C52:/59440D5B" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C52:/59440D5B" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C53:/593A7FE9:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C53:/593A7FE9" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C53:/593A7FE9" pin "1" z "" na "Net-(C45-Pad1)".
+
+Zmieniam nazwę sieci komponentu "C53:/593A7FE9" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "C54:/58D3A24F:Capacitors_SMD:C_0603".
+
+Dodaję nowy komponent "C54:/58D3A24F" o footprincie "Capacitors_SMD:C_0603".
+
+Zmieniam nazwę sieci komponentu "C54:/58D3A24F" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "C54:/58D3A24F" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "D1:/593BCB43:footprints:D2PAK".
+
+Dodaję nowy komponent "D1:/593BCB43" o footprincie "footprints:D2PAK".
+
+Zmieniam nazwę sieci komponentu "D1:/593BCB43" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "D1:/593BCB43" pin "1" z "" na "Net-(D1-Pad1)".
+
+Zmieniam nazwę sieci komponentu "D1:/593BCB43" pin "3" z "" na "Net-(D1-Pad3)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "D2:/597DB8C0:footprints:LED_0603".
+
+Dodaję nowy komponent "D2:/597DB8C0" o footprincie "footprints:LED_0603".
+
+Zmieniam nazwę sieci komponentu "D2:/597DB8C0" pin "1" z "" na "Net-(D2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "D2:/597DB8C0" pin "2" z "" na "Net-(D2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "D3:/597E0571:footprints:LED_0603".
+
+Dodaję nowy komponent "D3:/597E0571" o footprincie "footprints:LED_0603".
+
+Zmieniam nazwę sieci komponentu "D3:/597E0571" pin "1" z "" na "Net-(D3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "D3:/597E0571" pin "2" z "" na "Net-(D3-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "D4:/597B51FD:footprints:LED_0603".
+
+Dodaję nowy komponent "D4:/597B51FD" o footprincie "footprints:LED_0603".
+
+Zmieniam nazwę sieci komponentu "D4:/597B51FD" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "D4:/597B51FD" pin "2" z "" na "Net-(D4-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F1:/594A613A:Resistors_SMD:R_0603_HandSoldering".
+
+Dodaję nowy komponent "F1:/594A613A" o footprincie "Resistors_SMD:R_0603_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F1:/594A613A" pin "1" z "" na "Net-(F1-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F1:/594A613A" pin "2" z "" na "Net-(F1-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F2:/596DF662:Resistors_SMD:R_0603_HandSoldering".
+
+Dodaję nowy komponent "F2:/596DF662" o footprincie "Resistors_SMD:R_0603_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F2:/596DF662" pin "1" z "" na "Net-(F2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F2:/596DF662" pin "2" z "" na "Net-(F2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F3:/596E29AB:Resistors_SMD:R_0603_HandSoldering".
+
+Dodaję nowy komponent "F3:/596E29AB" o footprincie "Resistors_SMD:R_0603_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F3:/596E29AB" pin "1" z "" na "Net-(F3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F3:/596E29AB" pin "2" z "" na "Net-(F3-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F4:/596E29DC:Resistors_SMD:R_0603_HandSoldering".
+
+Dodaję nowy komponent "F4:/596E29DC" o footprincie "Resistors_SMD:R_0603_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F4:/596E29DC" pin "1" z "" na "Net-(F4-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F4:/596E29DC" pin "2" z "" na "Net-(F4-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F5:/596E40B3:Resistors_SMD:R_0603_HandSoldering".
+
+Dodaję nowy komponent "F5:/596E40B3" o footprincie "Resistors_SMD:R_0603_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F5:/596E40B3" pin "1" z "" na "Net-(F5-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F5:/596E40B3" pin "2" z "" na "Net-(F5-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F6:/596E40E4:Resistors_SMD:R_0603_HandSoldering".
+
+Dodaję nowy komponent "F6:/596E40E4" o footprincie "Resistors_SMD:R_0603_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F6:/596E40E4" pin "1" z "" na "Net-(F6-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F6:/596E40E4" pin "2" z "" na "Net-(F6-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F7:/5930D018:Resistors_SMD:R_1206_HandSoldering".
+
+Dodaję nowy komponent "F7:/5930D018" o footprincie "Resistors_SMD:R_1206_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F7:/5930D018" pin "1" z "" na "Net-(F7-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F7:/5930D018" pin "2" z "" na "Net-(D1-Pad3)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F8:/593ACE95:Resistors_SMD:R_1206_HandSoldering".
+
+Dodaję nowy komponent "F8:/593ACE95" o footprincie "Resistors_SMD:R_1206_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F8:/593ACE95" pin "1" z "" na "Net-(F8-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F8:/593ACE95" pin "2" z "" na "Net-(D1-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F9:/597D63BA:Resistors_SMD:R_1206_HandSoldering".
+
+Dodaję nowy komponent "F9:/597D63BA" o footprincie "Resistors_SMD:R_1206_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F9:/597D63BA" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "F9:/597D63BA" pin "2" z "" na "Net-(F9-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F10:/593113E0:Resistors_SMD:R_1206_HandSoldering".
+
+Dodaję nowy komponent "F10:/593113E0" o footprincie "Resistors_SMD:R_1206_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "F10:/593113E0" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "F10:/593113E0" pin "2" z "" na "Net-(F10-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "F11:/593D0740:footprints:SCHURTER_BEZPIECZNIK_OMF63_7.4x3.1".
+
+Dodaję nowy komponent "F11:/593D0740" o footprincie "footprints:SCHURTER_BEZPIECZNIK_OMF63_7.4x3.1".
+
+Zmieniam nazwę sieci komponentu "F11:/593D0740" pin "1" z "" na "Net-(C43-Pad1)".
+
+Zmieniam nazwę sieci komponentu "F11:/593D0740" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J1:/596D786C:footprints:MX-502584-0670".
+
+Dodaję nowy komponent "J1:/596D786C" o footprincie "footprints:MX-502584-0670".
+
+Zmieniam nazwę sieci komponentu "J1:/596D786C" pin "1" z "" na "Net-(C1-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J1:/596D786C" pin "2" z "" na "Net-(F1-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J1:/596D786C" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J1:/596D786C" pin "4" z "" na "/485A".
+
+Zmieniam nazwę sieci komponentu "J1:/596D786C" pin "5" z "" na "/485B".
+
+Zmieniam nazwę sieci komponentu "J1:/596D786C" pin "6" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J2:/596DF682:footprints:MX-502584-0670".
+
+Dodaję nowy komponent "J2:/596DF682" o footprincie "footprints:MX-502584-0670".
+
+Zmieniam nazwę sieci komponentu "J2:/596DF682" pin "1" z "" na "Net-(C2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J2:/596DF682" pin "2" z "" na "Net-(F2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J2:/596DF682" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J2:/596DF682" pin "4" z "" na "/485A".
+
+Zmieniam nazwę sieci komponentu "J2:/596DF682" pin "5" z "" na "/485B".
+
+Zmieniam nazwę sieci komponentu "J2:/596DF682" pin "6" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J3:/596E29CB:footprints:MX-502584-0670".
+
+Dodaję nowy komponent "J3:/596E29CB" o footprincie "footprints:MX-502584-0670".
+
+Zmieniam nazwę sieci komponentu "J3:/596E29CB" pin "1" z "" na "Net-(C3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J3:/596E29CB" pin "2" z "" na "Net-(F3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J3:/596E29CB" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J3:/596E29CB" pin "4" z "" na "/485A".
+
+Zmieniam nazwę sieci komponentu "J3:/596E29CB" pin "5" z "" na "/485B".
+
+Zmieniam nazwę sieci komponentu "J3:/596E29CB" pin "6" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J4:/596E29FC:footprints:MX-502584-0670".
+
+Dodaję nowy komponent "J4:/596E29FC" o footprincie "footprints:MX-502584-0670".
+
+Zmieniam nazwę sieci komponentu "J4:/596E29FC" pin "1" z "" na "Net-(C4-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J4:/596E29FC" pin "2" z "" na "Net-(F4-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J4:/596E29FC" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J4:/596E29FC" pin "4" z "" na "/485A".
+
+Zmieniam nazwę sieci komponentu "J4:/596E29FC" pin "5" z "" na "/485B".
+
+Zmieniam nazwę sieci komponentu "J4:/596E29FC" pin "6" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J5:/596E40D3:footprints:MX-502584-0670".
+
+Dodaję nowy komponent "J5:/596E40D3" o footprincie "footprints:MX-502584-0670".
+
+Zmieniam nazwę sieci komponentu "J5:/596E40D3" pin "1" z "" na "Net-(C5-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J5:/596E40D3" pin "2" z "" na "Net-(F5-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J5:/596E40D3" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J5:/596E40D3" pin "4" z "" na "/485A".
+
+Zmieniam nazwę sieci komponentu "J5:/596E40D3" pin "5" z "" na "/485B".
+
+Zmieniam nazwę sieci komponentu "J5:/596E40D3" pin "6" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J6:/596E4104:footprints:MX-502584-0670".
+
+Dodaję nowy komponent "J6:/596E4104" o footprincie "footprints:MX-502584-0670".
+
+Zmieniam nazwę sieci komponentu "J6:/596E4104" pin "1" z "" na "Net-(C6-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J6:/596E4104" pin "2" z "" na "Net-(F6-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J6:/596E4104" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J6:/596E4104" pin "4" z "" na "/485A".
+
+Zmieniam nazwę sieci komponentu "J6:/596E4104" pin "5" z "" na "/485B".
+
+Zmieniam nazwę sieci komponentu "J6:/596E4104" pin "6" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J7:/596B68AC:footprints:MX-502584-0270".
+
+Dodaję nowy komponent "J7:/596B68AC" o footprincie "footprints:MX-502584-0270".
+
+Zmieniam nazwę sieci komponentu "J7:/596B68AC" pin "1" z "" na "Net-(J7-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J7:/596B68AC" pin "2" z "" na "Net-(D2-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J8:/596B1AE0:footprints:MX-502584-0270".
+
+Dodaję nowy komponent "J8:/596B1AE0" o footprincie "footprints:MX-502584-0270".
+
+Zmieniam nazwę sieci komponentu "J8:/596B1AE0" pin "1" z "" na "Net-(J8-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J8:/596B1AE0" pin "2" z "" na "Net-(D3-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "J9:/58BEFA4F:footprints:ATTEND_uSD_112C_TXAR_R01".
+
+Dodaję nowy komponent "J9:/58BEFA4F" o footprincie "footprints:ATTEND_uSD_112C_TXAR_R01".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "9" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "10" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "11" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "12" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "1" z "" na "Net-(J9-Pad1)".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "2" z "" na "/CS_uSD".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "3" z "" na "/SPI_MOSI".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "5" z "" na "/SPI_CLK".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "7" z "" na "/SPI_MISO".
+
+Zmieniam nazwę sieci komponentu "J9:/58BEFA4F" pin "8" z "" na "Net-(J9-Pad8)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "P1:/5930E54A:footprints:MX-171813-0004".
+
+Dodaję nowy komponent "P1:/5930E54A" o footprincie "footprints:MX-171813-0004".
+
+Zmieniam nazwę sieci komponentu "P1:/5930E54A" pin "1" z "" na "Net-(F7-Pad1)".
+
+Zmieniam nazwę sieci komponentu "P1:/5930E54A" pin "2" z "" na "Net-(P1-Pad2)".
+
+Zmieniam nazwę sieci komponentu "P1:/5930E54A" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "P1:/5930E54A" pin "4" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "P2:/593ACE9B:footprints:MX-171813-0004".
+
+Dodaję nowy komponent "P2:/593ACE9B" o footprincie "footprints:MX-171813-0004".
+
+Zmieniam nazwę sieci komponentu "P2:/593ACE9B" pin "1" z "" na "Net-(F8-Pad1)".
+
+Zmieniam nazwę sieci komponentu "P2:/593ACE9B" pin "2" z "" na "Net-(P2-Pad2)".
+
+Zmieniam nazwę sieci komponentu "P2:/593ACE9B" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "P2:/593ACE9B" pin "4" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "P3:/592FF26E:footprints:MX-502584-0470".
+
+Dodaję nowy komponent "P3:/592FF26E" o footprincie "footprints:MX-502584-0470".
+
+Zmieniam nazwę sieci komponentu "P3:/592FF26E" pin "1" z "" na "Net-(P3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "P3:/592FF26E" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "P3:/592FF26E" pin "3" z "" na "Net-(P3-Pad3)".
+
+Zmieniam nazwę sieci komponentu "P3:/592FF26E" pin "4" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R1:/594A61B7:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R1:/594A61B7" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R1:/594A61B7" pin "1" z "" na "Net-(R1-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R1:/594A61B7" pin "2" z "" na "Net-(R1-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R2:/594A657E:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R2:/594A657E" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R2:/594A657E" pin "1" z "" na "Net-(R2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R2:/594A657E" pin "2" z "" na "Net-(R2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R3:/594A7D7B:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R3:/594A7D7B" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R3:/594A7D7B" pin "1" z "" na "Net-(R3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R3:/594A7D7B" pin "2" z "" na "Net-(R3-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R4:/594A7E42:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R4:/594A7E42" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R4:/594A7E42" pin "1" z "" na "Net-(R4-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R4:/594A7E42" pin "2" z "" na "Net-(R10-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R5:/594A9355:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R5:/594A9355" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R5:/594A9355" pin "1" z "" na "Net-(R5-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R5:/594A9355" pin "2" z "" na "Net-(R11-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R6:/594A941C:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R6:/594A941C" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R6:/594A941C" pin "1" z "" na "Net-(R6-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R6:/594A941C" pin "2" z "" na "Net-(R12-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R7:/594A615C:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R7:/594A615C" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R7:/594A615C" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R7:/594A615C" pin "2" z "" na "Net-(R1-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R8:/594A6523:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R8:/594A6523" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R8:/594A6523" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R8:/594A6523" pin "2" z "" na "Net-(R2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R9:/594A7D20:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R9:/594A7D20" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R9:/594A7D20" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R9:/594A7D20" pin "2" z "" na "Net-(R3-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R10:/594A7DE7:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R10:/594A7DE7" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R10:/594A7DE7" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R10:/594A7DE7" pin "2" z "" na "Net-(R10-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R11:/594A92FA:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R11:/594A92FA" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R11:/594A92FA" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R11:/594A92FA" pin "2" z "" na "Net-(R11-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R12:/594A93C1:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R12:/594A93C1" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R12:/594A93C1" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R12:/594A93C1" pin "2" z "" na "Net-(R12-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R13:/594A61AE:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R13:/594A61AE" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R13:/594A61AE" pin "1" z "" na "Net-(R13-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R13:/594A61AE" pin "2" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R14:/594A6575:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R14:/594A6575" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R14:/594A6575" pin "1" z "" na "Net-(R14-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R14:/594A6575" pin "2" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R15:/594A7D72:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R15:/594A7D72" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R15:/594A7D72" pin "1" z "" na "Net-(R15-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R15:/594A7D72" pin "2" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R16:/594A7E39:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R16:/594A7E39" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R16:/594A7E39" pin "1" z "" na "Net-(R16-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R16:/594A7E39" pin "2" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R17:/594A934C:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R17:/594A934C" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R17:/594A934C" pin "1" z "" na "Net-(R17-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R17:/594A934C" pin "2" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R18:/594A9413:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R18:/594A9413" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R18:/594A9413" pin "1" z "" na "Net-(R18-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R18:/594A9413" pin "2" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R19:/594A616E:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R19:/594A616E" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R19:/594A616E" pin "1" z "" na "/VBON6".
+
+Zmieniam nazwę sieci komponentu "R19:/594A616E" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R20:/594A6535:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R20:/594A6535" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R20:/594A6535" pin "1" z "" na "/VBON6".
+
+Zmieniam nazwę sieci komponentu "R20:/594A6535" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R21:/594A7D32:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R21:/594A7D32" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R21:/594A7D32" pin "1" z "" na "/VBON6".
+
+Zmieniam nazwę sieci komponentu "R21:/594A7D32" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R22:/594A7DF9:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R22:/594A7DF9" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R22:/594A7DF9" pin "1" z "" na "/VBON6".
+
+Zmieniam nazwę sieci komponentu "R22:/594A7DF9" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R23:/594A930C:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R23:/594A930C" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R23:/594A930C" pin "1" z "" na "/VBON6".
+
+Zmieniam nazwę sieci komponentu "R23:/594A930C" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R24:/594A93D3:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R24:/594A93D3" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R24:/594A93D3" pin "1" z "" na "/VBON6".
+
+Zmieniam nazwę sieci komponentu "R24:/594A93D3" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R25:/5930F979:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R25:/5930F979" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R25:/5930F979" pin "1" z "" na "/BAT1_POM".
+
+Zmieniam nazwę sieci komponentu "R25:/5930F979" pin "2" z "" na "Net-(P1-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R26:/593ACEA1:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R26:/593ACEA1" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R26:/593ACEA1" pin "1" z "" na "/BAT2_POM".
+
+Zmieniam nazwę sieci komponentu "R26:/593ACEA1" pin "2" z "" na "Net-(P2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R27:/593A0CB0:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R27:/593A0CB0" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R27:/593A0CB0" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R27:/593A0CB0" pin "2" z "" na "/BAT1_POM".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R28:/593ACECE:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R28:/593ACECE" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R28:/593ACECE" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R28:/593ACECE" pin "2" z "" na "/BAT2_POM".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R29:/594A73B4:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R29:/594A73B4" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R29:/594A73B4" pin "1" z "" na "/485A".
+
+Zmieniam nazwę sieci komponentu "R29:/594A73B4" pin "2" z "" na "/485B".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R30:/5970EA89:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R30:/5970EA89" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R30:/5970EA89" pin "1" z "" na "/RESET".
+
+Zmieniam nazwę sieci komponentu "R30:/5970EA89" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R31:/596ADD69:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R31:/596ADD69" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R31:/596ADD69" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R31:/596ADD69" pin "2" z "" na "Net-(J7-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R32:/597E0A86:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R32:/597E0A86" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R32:/597E0A86" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R32:/597E0A86" pin "2" z "" na "Net-(D2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R33:/597E07E2:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R33:/597E07E2" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R33:/597E07E2" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R33:/597E07E2" pin "2" z "" na "Net-(D3-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R34:/5978C2B0:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R34:/5978C2B0" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R34:/5978C2B0" pin "1" z "" na "Net-(R34-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R34:/5978C2B0" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R35:/5978C00E:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R35:/5978C00E" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R35:/5978C00E" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R35:/5978C00E" pin "2" z "" na "Net-(R34-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R36:/596AE282:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R36:/596AE282" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R36:/596AE282" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R36:/596AE282" pin "2" z "" na "Net-(J8-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R37:/594F61D1:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R37:/594F61D1" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R37:/594F61D1" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R37:/594F61D1" pin "2" z "" na "/485_RDE".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R38:/5974A117:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R38:/5974A117" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R38:/5974A117" pin "1" z "" na "/LPURT1_RX".
+
+Zmieniam nazwę sieci komponentu "R38:/5974A117" pin "2" z "" na "/485_RO".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R39:/59748116:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R39:/59748116" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R39:/59748116" pin "1" z "" na "/LPURT1_TX".
+
+Zmieniam nazwę sieci komponentu "R39:/59748116" pin "2" z "" na "/485_DI".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R40:/58D449D5:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R40:/58D449D5" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R40:/58D449D5" pin "1" z "" na "/I2C2_SCL".
+
+Zmieniam nazwę sieci komponentu "R40:/58D449D5" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R41:/59321EA1:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R41:/59321EA1" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R41:/59321EA1" pin "1" z "" na "Net-(R41-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R41:/59321EA1" pin "2" z "" na "/DHT22_ON".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R42:/593E5D53:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R42:/593E5D53" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R42:/593E5D53" pin "1" z "" na "/RTC_BAT".
+
+Zmieniam nazwę sieci komponentu "R42:/593E5D53" pin "2" z "" na "Net-(R42-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R43:/59321FEC:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R43:/59321FEC" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R43:/59321FEC" pin "1" z "" na "Net-(R43-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R43:/59321FEC" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R44:/59444299:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R44:/59444299" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R44:/59444299" pin "1" z "" na "Net-(R44-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R44:/59444299" pin "2" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R45:/59328C6F:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R45:/59328C6F" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R45:/59328C6F" pin "1" z "" na "/DHT22_DATA".
+
+Zmieniam nazwę sieci komponentu "R45:/59328C6F" pin "2" z "" na "Net-(C41-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R46:/59377D4C:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R46:/59377D4C" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R46:/59377D4C" pin "1" z "" na "Net-(R46-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R46:/59377D4C" pin "2" z "" na "Net-(R43-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R47:/594F0D3A:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R47:/594F0D3A" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R47:/594F0D3A" pin "1" z "" na "Net-(C44-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R47:/594F0D3A" pin "2" z "" na "/URT1_TX".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R48:/58B05413:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R48:/58B05413" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R48:/58B05413" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R48:/58B05413" pin "2" z "" na "/SPI_MISO".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R49:/5933C1AB:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R49:/5933C1AB" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R49:/5933C1AB" pin "1" z "" na "Net-(R49-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R49:/5933C1AB" pin "2" z "" na "Net-(C45-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R50:/5933C33D:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R50:/5933C33D" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R50:/5933C33D" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R50:/5933C33D" pin "2" z "" na "Net-(R49-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R51:/58B0415E:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R51:/58B0415E" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R51:/58B0415E" pin "1" z "" na "Net-(R51-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R51:/58B0415E" pin "2" z "" na "Net-(C44-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R52:/58B04228:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R52:/58B04228" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R52:/58B04228" pin "1" z "" na "Net-(R52-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R52:/58B04228" pin "2" z "" na "/URT1_RX".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R53:/59480668:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R53:/59480668" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R53:/59480668" pin "1" z "" na "Net-(R53-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R53:/59480668" pin "2" z "" na "Net-(D4-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R54:/58AF0E57:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R54:/58AF0E57" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R54:/58AF0E57" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R54:/58AF0E57" pin "2" z "" na "Net-(C47-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R55:/59303A39:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R55:/59303A39" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R55:/59303A39" pin "1" z "" na "Net-(R55-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R55:/59303A39" pin "2" z "" na "/URT2_RX".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R56:/5972C87C:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R56:/5972C87C" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R56:/5972C87C" pin "1" z "" na "Net-(R56-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R56:/5972C87C" pin "2" z "" na "/URT2_TX".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R57:/58BEE6F4:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R57:/58BEE6F4" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R57:/58BEE6F4" pin "1" z "" na "Net-(R57-Pad1)".
+
+Zmieniam nazwę sieci komponentu "R57:/58BEE6F4" pin "2" z "" na "Net-(R57-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R58:/58AEF8D0:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R58:/58AEF8D0" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R58:/58AEF8D0" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R58:/58AEF8D0" pin "2" z "" na "Net-(R58-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "R59:/58AEFB29:Resistors_SMD:R_0603".
+
+Dodaję nowy komponent "R59:/58AEFB29" o footprincie "Resistors_SMD:R_0603".
+
+Zmieniam nazwę sieci komponentu "R59:/58AEFB29" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "R59:/58AEFB29" pin "2" z "" na "Net-(R59-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T1:/594A6156:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T1:/594A6156" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T1:/594A6156" pin "1" z "" na "Net-(R1-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T1:/594A6156" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T1:/594A6156" pin "3" z "" na "Net-(F1-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T2:/594A651D:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T2:/594A651D" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T2:/594A651D" pin "1" z "" na "Net-(R2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T2:/594A651D" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T2:/594A651D" pin "3" z "" na "Net-(F2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T3:/594A7D1A:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T3:/594A7D1A" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T3:/594A7D1A" pin "1" z "" na "Net-(R3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T3:/594A7D1A" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T3:/594A7D1A" pin "3" z "" na "Net-(F3-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T4:/594A7DE1:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T4:/594A7DE1" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T4:/594A7DE1" pin "1" z "" na "Net-(R4-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T4:/594A7DE1" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T4:/594A7DE1" pin "3" z "" na "Net-(F4-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T5:/594A92F4:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T5:/594A92F4" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T5:/594A92F4" pin "1" z "" na "Net-(R5-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T5:/594A92F4" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T5:/594A92F4" pin "3" z "" na "Net-(F5-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T6:/594A93BB:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T6:/594A93BB" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T6:/594A93BB" pin "1" z "" na "Net-(R6-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T6:/594A93BB" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T6:/594A93BB" pin "3" z "" na "Net-(F6-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T7:/594A6162:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T7:/594A6162" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T7:/594A6162" pin "1" z "" na "Net-(R13-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T7:/594A6162" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T7:/594A6162" pin "3" z "" na "Net-(R1-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T8:/594A6529:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T8:/594A6529" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T8:/594A6529" pin "1" z "" na "Net-(R14-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T8:/594A6529" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T8:/594A6529" pin "3" z "" na "Net-(R2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T9:/594A7D26:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T9:/594A7D26" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T9:/594A7D26" pin "1" z "" na "Net-(R15-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T9:/594A7D26" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T9:/594A7D26" pin "3" z "" na "Net-(R3-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T10:/594A7DED:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T10:/594A7DED" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T10:/594A7DED" pin "1" z "" na "Net-(R16-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T10:/594A7DED" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T10:/594A7DED" pin "3" z "" na "Net-(R10-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T11:/594A9300:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T11:/594A9300" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T11:/594A9300" pin "1" z "" na "Net-(R17-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T11:/594A9300" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T11:/594A9300" pin "3" z "" na "Net-(R11-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T12:/594A93C7:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T12:/594A93C7" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T12:/594A93C7" pin "1" z "" na "Net-(R18-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T12:/594A93C7" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T12:/594A93C7" pin "3" z "" na "Net-(R12-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T13:/59339D27:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T13:/59339D27" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T13:/59339D27" pin "1" z "" na "Net-(R41-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T13:/59339D27" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T13:/59339D27" pin "3" z "" na "Net-(R43-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "T14:/59324AFF:TO_SOT_Packages_SMD:SOT-23".
+
+Dodaję nowy komponent "T14:/59324AFF" o footprincie "TO_SOT_Packages_SMD:SOT-23".
+
+Zmieniam nazwę sieci komponentu "T14:/59324AFF" pin "1" z "" na "Net-(R46-Pad1)".
+
+Zmieniam nazwę sieci komponentu "T14:/59324AFF" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "T14:/59324AFF" pin "3" z "" na "Net-(C41-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP1:/594A617A:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP1:/594A617A" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP1:/594A617A" pin "1" z "" na "Net-(F1-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP2:/596DF66E:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP2:/596DF66E" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP2:/596DF66E" pin "1" z "" na "Net-(F2-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP3:/596E29B7:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP3:/596E29B7" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP3:/596E29B7" pin "1" z "" na "Net-(F3-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP4:/596E29E8:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP4:/596E29E8" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP4:/596E29E8" pin "1" z "" na "Net-(F4-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP5:/596E40BF:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP5:/596E40BF" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP5:/596E40BF" pin "1" z "" na "Net-(F5-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP6:/596E40F0:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP6:/596E40F0" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP6:/596E40F0" pin "1" z "" na "Net-(F6-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP7:/594A6180:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP7:/594A6180" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP7:/594A6180" pin "1" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP8:/594A6547:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP8:/594A6547" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP8:/594A6547" pin "1" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP9:/594A7D44:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP9:/594A7D44" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP9:/594A7D44" pin "1" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP10:/594A7E0B:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP10:/594A7E0B" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP10:/594A7E0B" pin "1" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP11:/594A931E:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP11:/594A931E" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP11:/594A931E" pin "1" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP12:/594A93E5:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP12:/594A93E5" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP12:/594A93E5" pin "1" z "" na "/VBON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP13:/5947E6BD:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP13:/5947E6BD" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP13:/5947E6BD" pin "1" z "" na "/485A".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP14:/5947EC87:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP14:/5947EC87" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP14:/5947EC87" pin "1" z "" na "/485B".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP15:/593CA325:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP15:/593CA325" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP15:/593CA325" pin "1" z "" na "/RESET".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP16:/5944A97E:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP16:/5944A97E" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP16:/5944A97E" pin "1" z "" na "Net-(D1-Pad3)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP17:/5944B1E0:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP17:/5944B1E0" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP17:/5944B1E0" pin "1" z "" na "Net-(D1-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP18:/593CB467:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP18:/593CB467" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP18:/593CB467" pin "1" z "" na "/WDI".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP19:/5944C9E1:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP19:/5944C9E1" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP19:/5944C9E1" pin "1" z "" na "Net-(F10-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP20:/597D63D3:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP20:/597D63D3" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP20:/597D63D3" pin "1" z "" na "Net-(F9-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP21:/5944F03D:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP21:/5944F03D" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP21:/5944F03D" pin "1" z "" na "Net-(R43-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP22:/594465C2:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP22:/594465C2" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP22:/594465C2" pin "1" z "" na "Net-(R44-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP23:/59448FBF:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP23:/59448FBF" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP23:/59448FBF" pin "1" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP24:/597D63CD:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP24:/597D63CD" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP24:/597D63CD" pin "1" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP25:/594648E3:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP25:/594648E3" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP25:/594648E3" pin "1" z "" na "/URT1_RX".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP26:/59464AF5:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP26:/59464AF5" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP26:/59464AF5" pin "1" z "" na "/URT1_TX".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP27:/5945098F:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP27:/5945098F" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP27:/5945098F" pin "1" z "" na "Net-(C41-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP28:/594674D1:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP28:/594674D1" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP28:/594674D1" pin "1" z "" na "Net-(C45-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP29:/5977C919:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP29:/5977C919" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP29:/5977C919" pin "1" z "" na "/CS_ESP".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP30:/5946C81F:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP30:/5946C81F" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP30:/5946C81F" pin "1" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "TP31:/5946C5D3:Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Dodaję nowy komponent "TP31:/5946C5D3" o footprincie "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big".
+
+Zmieniam nazwę sieci komponentu "TP31:/5946C5D3" pin "1" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U1:/594A612E:footprints:SOT-223-6".
+
+Dodaję nowy komponent "U1:/594A612E" o footprincie "footprints:SOT-223-6".
+
+Zmieniam nazwę sieci komponentu "U1:/594A612E" pin "4" z "" na "Net-(C1-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U1:/594A612E" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U1:/594A612E" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U1:/594A612E" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U1:/594A612E" pin "5" z "" na "Net-(U1-Pad5)".
+
+Zmieniam nazwę sieci komponentu "U1:/594A612E" pin "1" z "" na "/33ON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U2:/594A64F5:footprints:SOT-223-6".
+
+Dodaję nowy komponent "U2:/594A64F5" o footprincie "footprints:SOT-223-6".
+
+Zmieniam nazwę sieci komponentu "U2:/594A64F5" pin "4" z "" na "Net-(C2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U2:/594A64F5" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U2:/594A64F5" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U2:/594A64F5" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U2:/594A64F5" pin "5" z "" na "Net-(U2-Pad5)".
+
+Zmieniam nazwę sieci komponentu "U2:/594A64F5" pin "1" z "" na "/33ON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U3:/594A7CF2:footprints:SOT-223-6".
+
+Dodaję nowy komponent "U3:/594A7CF2" o footprincie "footprints:SOT-223-6".
+
+Zmieniam nazwę sieci komponentu "U3:/594A7CF2" pin "4" z "" na "Net-(C3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U3:/594A7CF2" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U3:/594A7CF2" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U3:/594A7CF2" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U3:/594A7CF2" pin "5" z "" na "Net-(U3-Pad5)".
+
+Zmieniam nazwę sieci komponentu "U3:/594A7CF2" pin "1" z "" na "/33ON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U4:/594A7DBA:footprints:SOT-223-6".
+
+Dodaję nowy komponent "U4:/594A7DBA" o footprincie "footprints:SOT-223-6".
+
+Zmieniam nazwę sieci komponentu "U4:/594A7DBA" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U4:/594A7DBA" pin "2" z "" na "Net-(C4-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U4:/594A7DBA" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U4:/594A7DBA" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U4:/594A7DBA" pin "5" z "" na "/33ON6".
+
+Zmieniam nazwę sieci komponentu "U4:/594A7DBA" pin "1" z "" na "Net-(U4-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U5:/594A92CC:footprints:SOT-223-6".
+
+Dodaję nowy komponent "U5:/594A92CC" o footprincie "footprints:SOT-223-6".
+
+Zmieniam nazwę sieci komponentu "U5:/594A92CC" pin "4" z "" na "Net-(C5-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U5:/594A92CC" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U5:/594A92CC" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U5:/594A92CC" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U5:/594A92CC" pin "5" z "" na "Net-(U5-Pad5)".
+
+Zmieniam nazwę sieci komponentu "U5:/594A92CC" pin "1" z "" na "/33ON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U6:/594A9394:footprints:SOT-223-6".
+
+Dodaję nowy komponent "U6:/594A9394" o footprincie "footprints:SOT-223-6".
+
+Zmieniam nazwę sieci komponentu "U6:/594A9394" pin "4" z "" na "Net-(C6-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U6:/594A9394" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U6:/594A9394" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U6:/594A9394" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U6:/594A9394" pin "5" z "" na "Net-(U6-Pad5)".
+
+Zmieniam nazwę sieci komponentu "U6:/594A9394" pin "1" z "" na "/33ON6".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U7:/58C9C0CE:Housings_SOIC:SOIC-20W_7.5x12.8mm_Pitch1.27mm".
+
+Dodaję nowy komponent "U7:/58C9C0CE" o footprincie "Housings_SOIC:SOIC-20W_7.5x12.8mm_Pitch1.27mm".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "1" z "" na "/33LOE".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "2" z "" na "Net-(U7-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "4" z "" na "/VON1".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "5" z "" na "/33ON1".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "6" z "" na "/33ON2".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "7" z "" na "/VON2".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "8" z "" na "/VON3".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "9" z "" na "/33ON3".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "10" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "11" z "" na "/33LE".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "12" z "" na "/33ON4".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "13" z "" na "/VON4".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "14" z "" na "/VON5".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "15" z "" na "/33ON5".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "16" z "" na "/33ON6".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "17" z "" na "/VON6".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "18" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "19" z "" na "Net-(U7-Pad19)".
+
+Zmieniam nazwę sieci komponentu "U7:/58C9C0CE" pin "20" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U8:/58C9D82E:Housings_SOIC:SOIC-20W_7.5x12.8mm_Pitch1.27mm".
+
+Dodaję nowy komponent "U8:/58C9D82E" o footprincie "Housings_SOIC:SOIC-20W_7.5x12.8mm_Pitch1.27mm".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "1" z "" na "/VBLOE".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "2" z "" na "Net-(U8-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "4" z "" na "/VON1".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "5" z "" na "/VBON1".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "6" z "" na "/VBON2".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "7" z "" na "/VON2".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "8" z "" na "/VON3".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "9" z "" na "/VBON3".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "10" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "11" z "" na "/VBLE".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "12" z "" na "/VBON4".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "13" z "" na "/VON4".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "14" z "" na "/VON5".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "15" z "" na "/VBON5".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "16" z "" na "/VBON6".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "17" z "" na "/VON6".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "18" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "19" z "" na "Net-(U8-Pad19)".
+
+Zmieniam nazwę sieci komponentu "U8:/58C9D82E" pin "20" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U9:/59493A79:Power_Integrations:SO-8".
+
+Dodaję nowy komponent "U9:/59493A79" o footprincie "Power_Integrations:SO-8".
+
+Zmieniam nazwę sieci komponentu "U9:/59493A79" pin "1" z "" na "/485_RO".
+
+Zmieniam nazwę sieci komponentu "U9:/59493A79" pin "2" z "" na "/485_RDE".
+
+Zmieniam nazwę sieci komponentu "U9:/59493A79" pin "3" z "" na "/485_RDE".
+
+Zmieniam nazwę sieci komponentu "U9:/59493A79" pin "4" z "" na "/485_DI".
+
+Zmieniam nazwę sieci komponentu "U9:/59493A79" pin "5" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U9:/59493A79" pin "6" z "" na "/485A".
+
+Zmieniam nazwę sieci komponentu "U9:/59493A79" pin "7" z "" na "/485B".
+
+Zmieniam nazwę sieci komponentu "U9:/59493A79" pin "8" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U10:/59483B37:TO_SOT_Packages_SMD:SOT-23-5".
+
+Dodaję nowy komponent "U10:/59483B37" o footprincie "TO_SOT_Packages_SMD:SOT-23-5".
+
+Zmieniam nazwę sieci komponentu "U10:/59483B37" pin "1" z "" na "/RESET".
+
+Zmieniam nazwę sieci komponentu "U10:/59483B37" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U10:/59483B37" pin "3" z "" na "Net-(U10-Pad3)".
+
+Zmieniam nazwę sieci komponentu "U10:/59483B37" pin "4" z "" na "/WDI".
+
+Zmieniam nazwę sieci komponentu "U10:/59483B37" pin "5" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U11:/596678CB:Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm".
+
+Dodaję nowy komponent "U11:/596678CB" o footprincie "Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "2" z "" na "Net-(U11-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "3" z "" na "Net-(C13-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "4" z "" na "Net-(C17-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "5" z "" na "Net-(C14-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "6" z "" na "Net-(C18-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "7" z "" na "/RESET".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "8" z "" na "/33LE".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "9" z "" na "/33LOE".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "10" z "" na "/VBLE".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "11" z "" na "/VBLOE".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "12" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "13" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "14" z "" na "/BAT1_POM".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "15" z "" na "/BAT2_POM".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "16" z "" na "/URT2_TX".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "17" z "" na "/URT2_RX".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "18" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "19" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "20" z "" na "/VON1".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "21" z "" na "/VON2".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "22" z "" na "/VON3".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "23" z "" na "/VON4".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "24" z "" na "/VON5".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "25" z "" na "/VON6".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "26" z "" na "Net-(D2-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "27" z "" na "Net-(D3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "28" z "" na "/WDI".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "29" z "" na "/I2C2_SCL".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "30" z "" na "/I2C2_SDA".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "31" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "32" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "33" z "" na "/DHT22_ON".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "34" z "" na "/SPI_CLK".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "35" z "" na "/SPI_MISO".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "36" z "" na "/SPI_MOSI".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "37" z "" na "/CS_ESP".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "38" z "" na "/CS_FLA".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "39" z "" na "/CS_uSD".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "40" z "" na "/ESP_ON".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "41" z "" na "/GSM_ON".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "42" z "" na "/URT1_TX".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "43" z "" na "/URT1_RX".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "44" z "" na "/GSM_DTR".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "45" z "" na "/GSM_STAB_EN".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "46" z "" na "Net-(P3-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "47" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "48" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "49" z "" na "Net-(P3-Pad3)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "50" z "" na "/DHT22_DATA".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "51" z "" na "/LPURT1_TX".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "52" z "" na "/LPURT1_RX".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "53" z "" na "/485_RDE".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "54" z "" na "Net-(U11-Pad54)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "55" z "" na "Net-(U11-Pad55)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "56" z "" na "Net-(U11-Pad56)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "57" z "" na "Net-(U11-Pad57)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "58" z "" na "Net-(U11-Pad58)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "59" z "" na "SHDN_3.3V".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "60" z "" na "Net-(R34-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "61" z "" na "Net-(U11-Pad61)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "62" z "" na "Net-(U11-Pad62)".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "63" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U11:/596678CB" pin "64" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U12:/58D2ECC1:SMD_Packages:SO-16-W".
+
+Dodaję nowy komponent "U12:/58D2ECC1" o footprincie "SMD_Packages:SO-16-W".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "1" z "" na "Net-(R44-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "2" z "" na "Net-(C43-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "3" z "" na "Net-(U12-Pad3)".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "4" z "" na "Net-(U12-Pad4)".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "5" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "7" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "8" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "9" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "10" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "11" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "12" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "13" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "14" z "" na "Net-(R42-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "15" z "" na "/I2C2_SDA".
+
+Zmieniam nazwę sieci komponentu "U12:/58D2ECC1" pin "16" z "" na "/I2C2_SCL".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U13:/58C97B43:footprints:SOT-223-6".
+
+Dodaję nowy komponent "U13:/58C97B43" o footprincie "footprints:SOT-223-6".
+
+Zmieniam nazwę sieci komponentu "U13:/58C97B43" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U13:/58C97B43" pin "2" z "" na "Net-(F10-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U13:/58C97B43" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U13:/58C97B43" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U13:/58C97B43" pin "5" z "" na "Net-(U13-Pad5)".
+
+Zmieniam nazwę sieci komponentu "U13:/58C97B43" pin "1" z "" na "Net-(F10-Pad2)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U14:/597D63A7:footprints:SOT-223-6".
+
+Dodaję nowy komponent "U14:/597D63A7" o footprincie "footprints:SOT-223-6".
+
+Zmieniam nazwę sieci komponentu "U14:/597D63A7" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U14:/597D63A7" pin "2" z "" na "Net-(F9-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U14:/597D63A7" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U14:/597D63A7" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U14:/597D63A7" pin "5" z "" na "Net-(U14-Pad5)".
+
+Zmieniam nazwę sieci komponentu "U14:/597D63A7" pin "1" z "" na "SHDN_3.3V".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U15:/5933BEC7:TO_SOT_Packages_SMD:TO-263-5_TabPin6".
+
+Dodaję nowy komponent "U15:/5933BEC7" o footprincie "TO_SOT_Packages_SMD:TO-263-5_TabPin6".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "1" z "" na "/GSM_STAB_EN".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "2" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "4" z "" na "Net-(C45-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "5" z "" na "Net-(R49-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "6" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U15:/5933BEC7" pin "6" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U16:/593150F7:footprints:DHT22".
+
+Dodaję nowy komponent "U16:/593150F7" o footprincie "footprints:DHT22".
+
+Zmieniam nazwę sieci komponentu "U16:/593150F7" pin "1" z "" na "Net-(C41-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U16:/593150F7" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U16:/593150F7" pin "3" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U16:/593150F7" pin "2" z "" na "/DHT22_DATA".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U17:/58B0347D:footprints:M590E".
+
+Dodaję nowy komponent "U17:/58B0347D" o footprincie "footprints:M590E".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "1" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "2" z "" na "Net-(C45-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "3" z "" na "Net-(C45-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "5" z "" na "Net-(R53-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "6" z "" na "Net-(U17-Pad6)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "7" z "" na "Net-(R51-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "8" z "" na "Net-(R52-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "9" z "" na "/GSM_DTR".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "10" z "" na "Net-(U17-Pad10)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "11" z "" na "Net-(R57-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "12" z "" na "Net-(U17-Pad12)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "13" z "" na "Net-(U17-Pad13)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "14" z "" na "Net-(R57-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "15" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "16" z "" na "Net-(U17-Pad16)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "17" z "" na "Net-(U17-Pad17)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "18" z "" na "Net-(U17-Pad18)".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "19" z "" na "/GSM_ON".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "20" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U17:/58B0347D" pin "21" z "" na "Net-(U17-Pad21)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U18:/58BE6C7B:Power_Integrations:SO-8".
+
+Dodaję nowy komponent "U18:/58BE6C7B" o footprincie "Power_Integrations:SO-8".
+
+Zmieniam nazwę sieci komponentu "U18:/58BE6C7B" pin "1" z "" na "/CS_FLA".
+
+Zmieniam nazwę sieci komponentu "U18:/58BE6C7B" pin "2" z "" na "/SPI_MISO".
+
+Zmieniam nazwę sieci komponentu "U18:/58BE6C7B" pin "3" z "" na "Net-(U18-Pad3)".
+
+Zmieniam nazwę sieci komponentu "U18:/58BE6C7B" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U18:/58BE6C7B" pin "5" z "" na "/SPI_MOSI".
+
+Zmieniam nazwę sieci komponentu "U18:/58BE6C7B" pin "6" z "" na "/SPI_CLK".
+
+Zmieniam nazwę sieci komponentu "U18:/58BE6C7B" pin "7" z "" na "Net-(U18-Pad7)".
+
+Zmieniam nazwę sieci komponentu "U18:/58BE6C7B" pin "8" z "" na "~".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U19:/58AEE561:footprints:ESP-07".
+
+Dodaję nowy komponent "U19:/58AEE561" o footprincie "footprints:ESP-07".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "9" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "10" z "" na "/CS_ESP".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "11" z "" na "Net-(R59-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "12" z "" na "Net-(R58-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "13" z "" na "Net-(U19-Pad13)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "14" z "" na "Net-(U19-Pad14)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "15" z "" na "Net-(R56-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "16" z "" na "Net-(R55-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "8" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "7" z "" na "/SPI_MOSI".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "6" z "" na "/SPI_MISO".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "5" z "" na "/SPI_CLK".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "4" z "" na "Net-(U19-Pad4)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "1" z "" na "Net-(C47-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "2" z "" na "Net-(U19-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U19:/58AEE561" pin "3" z "" na "/ESP_ON".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "U20:/58BE6757:footprints:AMPHENOL_SIMHOLDER_C707_10M006_049_2".
+
+Dodaję nowy komponent "U20:/58BE6757" o footprincie "footprints:AMPHENOL_SIMHOLDER_C707_10M006_049_2".
+
+Zmieniam nazwę sieci komponentu "U20:/58BE6757" pin "4" z "" na "~".
+
+Zmieniam nazwę sieci komponentu "U20:/58BE6757" pin "1" z "" na "Net-(R57-Pad2)".
+
+Zmieniam nazwę sieci komponentu "U20:/58BE6757" pin "6" z "" na "Net-(R57-Pad1)".
+
+Zmieniam nazwę sieci komponentu "U20:/58BE6757" pin "5" z "" na "Net-(U20-Pad5)".
+
+Zmieniam nazwę sieci komponentu "U20:/58BE6757" pin "2" z "" na "Net-(U17-Pad13)".
+
+Zmieniam nazwę sieci komponentu "U20:/58BE6757" pin "3" z "" na "Net-(U17-Pad12)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "Y1:/592BAC01:footprints:Abracon_ABS07".
+
+Dodaję nowy komponent "Y1:/592BAC01" o footprincie "footprints:Abracon_ABS07".
+
+Zmieniam nazwę sieci komponentu "Y1:/592BAC01" pin "1" z "" na "Net-(C13-Pad1)".
+
+Zmieniam nazwę sieci komponentu "Y1:/592BAC01" pin "2" z "" na "Net-(C17-Pad1)".
+
+Informacja:Sprawdzam footprint komponentu z listy sieci "Y2:/592C54FC:Crystals:Crystal_SMD_HC49-SD_HandSoldering".
+
+Dodaję nowy komponent "Y2:/592C54FC" o footprincie "Crystals:Crystal_SMD_HC49-SD_HandSoldering".
+
+Zmieniam nazwę sieci komponentu "Y2:/592C54FC" pin "1" z "" na "Net-(C14-Pad1)".
+
+Zmieniam nazwę sieci komponentu "Y2:/592C54FC" pin "2" z "" na "Net-(C18-Pad1)".
+
