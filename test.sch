@@ -39,8 +39,8 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "HSP2"
-Date "2017-07-10"
-Rev "1.1"
+Date "2017-07-18"
+Rev "1.2"
 Comp "Instytut Mechaniki Górotworu Polskiej Akademii Nauk"
 Comment1 ""
 Comment2 ""
@@ -1514,7 +1514,7 @@ F 1 "MBRB2535CTLT4G" H 6850 9875 50  0000 C CNN
 F 2 "footprints:D2PAK" H 6850 9750 50  0001 C CNN
 F 3 "" H 6850 9750 50  0001 C CNN
 	1    6850 9750
-	0    -1   -1   0   
+	0    -1   1    0   
 $EndComp
 $Comp
 L CP C39
@@ -4033,7 +4033,7 @@ F 1 "MCP1755T-3302E/DC" H 3750 6450 40  0000 C CNN
 F 2 "footprints:SOT-223-6" H 3700 6625 60  0001 C CNN
 F 3 "" H 3700 6625 60  0001 C CNN
 	1    3750 6500
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L MGND #GND0103
@@ -6044,15 +6044,15 @@ Wire Wire Line
 Wire Wire Line
 	6625 1975 6625 2025
 Wire Wire Line
-	6500 1825 6500 1650
+	6500 1650 6500 1825
 Wire Wire Line
-	6500 1650 6050 1650
+	6050 1650 6500 1650
 Wire Wire Line
 	6300 1650 6300 1700
 Wire Wire Line
-	6500 1900 6500 2050
+	6500 2050 6500 1900
 Wire Wire Line
-	6500 2050 6050 2050
+	6050 2050 6500 2050
 Wire Wire Line
 	6300 2050 6300 2000
 Connection ~ 6300 1650
@@ -6064,7 +6064,7 @@ Wire Wire Line
 Wire Wire Line
 	8550 1650 8550 2200
 Wire Wire Line
-	8550 2575 8550 2500
+	8550 2500 8550 2575
 Connection ~ 8550 2175
 Wire Wire Line
 	5250 3625 5250 4250
@@ -6127,17 +6127,17 @@ Wire Wire Line
 Wire Wire Line
 	7575 4300 7025 4300
 Wire Wire Line
-	7025 4300 7025 9275
+	7025 9275 7025 4300
 Wire Wire Line
-	7025 9275 6125 9275
+	6125 9275 7025 9275
 Wire Wire Line
 	6450 9325 6450 9275
 Wire Wire Line
 	7575 4375 7100 4375
 Wire Wire Line
-	7100 4375 7100 10425
+	7100 10425 7100 4375
 Wire Wire Line
-	7100 10425 6125 10425
+	6125 10425 7100 10425
 Connection ~ 6400 3775
 Wire Wire Line
 	6400 3200 6400 3125
@@ -7453,4 +7453,30 @@ Text Label 6400 3825 3    40   ~ 0
 RESET
 Text Notes 9075 10775 0    40   ~ 0
 PIN PB7 STM32
+Wire Wire Line
+	8150 2900 8150 2975
+Wire Wire Line
+	8000 2900 8150 2900
+Connection ~ 8000 2900
+Wire Wire Line
+	8075 2975 8075 2900
+Connection ~ 8075 2900
+Wire Wire Line
+	8375 2975 8375 2900
+Wire Wire Line
+	8375 2900 8675 2900
+Wire Wire Line
+	8675 2900 8675 2975
+Wire Wire Line
+	8600 2975 8600 2900
+Connection ~ 8600 2900
+Wire Wire Line
+	8525 2975 8525 2900
+Connection ~ 8525 2900
+Wire Wire Line
+	8450 2550 8450 2975
+Connection ~ 8450 2900
+Wire Wire Line
+	8450 2550 8550 2550
+Connection ~ 8550 2550
 $EndSCHEMATC
