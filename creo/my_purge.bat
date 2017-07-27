@@ -1,0 +1,1 @@
+"C:\Program Files\PTC\Creo 2.0\Parametric\bin\purge.bat"
