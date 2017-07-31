@@ -204,7 +204,7 @@ U 1 1 58BE6C7B
 P 13950 6350
 F 0 "U18" H 13950 6700 60  0000 C CNN
 F 1 "S25FL1275ABMGI101" H 13975 6275 60  0000 C CNN
-F 2 "Power_Integrations:SO-8" H 13900 6525 60  0001 C CNN
+F 2 "footprints:SO-8" H 13900 6525 60  0001 C CNN
 F 3 "" H 13900 6525 60  0001 C CNN
 	1    13950 6350
 	1    0    0    -1  
@@ -1709,17 +1709,6 @@ F 1 "TEST" H 6375 10525 50  0000 C CNN
 F 2 "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big" H 6375 10275 50  0001 C CNN
 F 3 "" H 6375 10275 50  0001 C CNN
 	1    6375 10275
-	1    0    0    -1  
-$EndComp
-$Comp
-L TEST TP19
-U 1 1 5944C9E1
-P 9625 9350
-F 0 "TP19" H 9625 9650 50  0000 C BNN
-F 1 "TEST" H 9625 9600 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big" H 9625 9350 50  0001 C CNN
-F 3 "" H 9625 9350 50  0001 C CNN
-	1    9625 9350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -5490,17 +5479,6 @@ F 3 "" H 10550 10450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST TP20
-U 1 1 597D63D3
-P 9625 10450
-F 0 "TP20" H 9625 10750 50  0000 C BNN
-F 1 "TEST" H 9625 10700 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big" H 9625 10450 50  0001 C CNN
-F 3 "" H 9625 10450 50  0001 C CNN
-	1    9625 10450
-	1    0    0    -1  
-$EndComp
-$Comp
 L CP C47
 U 1 1 5980A533
 P 12825 8275
@@ -6074,9 +6052,6 @@ Connection ~ 6375 10325
 Wire Wire Line
 	6375 9125 6375 9175
 Connection ~ 6375 9175
-Wire Wire Line
-	9625 9350 9625 9400
-Connection ~ 9625 9400
 Wire Wire Line
 	10425 5900 10425 5950
 Wire Wire Line
@@ -6987,9 +6962,6 @@ Wire Wire Line
 Wire Wire Line
 	10550 10450 10550 10500
 Connection ~ 10550 10500
-Wire Wire Line
-	9625 10450 9625 10500
-Connection ~ 9625 10500
 Wire Notes Line
 	13100 8075 13100 8600
 Wire Notes Line

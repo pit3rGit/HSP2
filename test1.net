@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source D:/github/HSP2/test.sch)
-    (date "24.07.2017 09:06:18")
+    (date "31.07.2017 11:11:49")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -65,7 +65,7 @@
       (tstamp 58BE6757))
     (comp (ref U18)
       (value S25FL1275ABMGI101)
-      (footprint Power_Integrations:SO-8)
+      (footprint footprints:SO-8)
       (libsource (lib moja_biblioteka) (part S25FL1275ABMGI101))
       (sheetpath (names /) (tstamps /))
       (tstamp 58BE6C7B))
@@ -1183,7 +1183,7 @@
       (tstamp 5980A533))
     (comp (ref U11)
       (value STM32L051R8)
-      (footprint Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm)
+      (footprint footprints:LQFP-64_10x10mm_Pitch0.5mm)
       (libsource (lib moja_biblioteka) (part STM32L051R8))
       (sheetpath (names /) (tstamps /))
       (tstamp 596678CB))
