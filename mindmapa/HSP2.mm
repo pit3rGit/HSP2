@@ -79,6 +79,7 @@
 </node>
 <node COLOR="#00b439" CREATED="1500966962306" ID="ID_683492051" MODIFIED="1501150557381" TEXT="pcb">
 <edge COLOR="#00b439" WIDTH="2"/>
+<node CREATED="1501754503172" ID="ID_838908185" MODIFIED="1501768292640" TEXT="Obrys dotyczy &#x15b;rodka freza fi 2mm"/>
 </node>
 </node>
 </node>
