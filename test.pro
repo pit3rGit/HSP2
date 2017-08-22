@@ -1,4 +1,4 @@
-update=18.08.2017 15:43:56
+update=22.08.2017 16:09:39
 version=1
 last_client=kicad
 [cvpcb]
@@ -23,6 +23,16 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -60,15 +70,5 @@ LibName30=contrib
 LibName31=valves
 LibName32=stm32
 LibName33=maxim
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [general]
 version=1
