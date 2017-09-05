@@ -39,10 +39,10 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "HSP2"
-Date "2017-08-23"
-Rev "1.4"
+Date "2017-09-05"
+Rev "1.5"
 Comp "Instytut Mechaniki Górotworu Polskiej Akademii Nauk"
-Comment1 ""
+Comment1 "Piotr Ostrogórski"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -139,9 +139,9 @@ SPI_MOSI
 Entry Wire Line
 	12275 6025 12375 6125
 Entry Wire Line
-	12275 5950 12375 6050
-Entry Wire Line
 	12275 5875 12375 5975
+Entry Wire Line
+	12275 5950 12375 6050
 Entry Wire Line
 	12275 4925 12375 5025
 Entry Wire Line
@@ -158,9 +158,9 @@ Text Label 14075 8675 1    40   ~ 0
 SPI_MOSI
 Text Label 12375 6125 0    40   ~ 0
 SPI_MISO
-Text Label 12375 6050 0    40   ~ 0
-SPI_MOSI
 Text Label 12375 5975 0    40   ~ 0
+SPI_MOSI
+Text Label 12375 6050 0    40   ~ 0
 SPI_CLK
 Text Label 9400 4150 0    40   ~ 0
 CS_ESP
@@ -5880,9 +5880,9 @@ Wire Wire Line
 Wire Wire Line
 	13300 2250 13100 2250
 Wire Wire Line
-	12375 5975 13575 5975
-Wire Wire Line
 	12375 6050 13575 6050
+Wire Wire Line
+	12375 5975 13575 5975
 Wire Wire Line
 	13575 6125 12375 6125
 Wire Wire Line
@@ -6702,15 +6702,15 @@ Wire Wire Line
 Wire Wire Line
 	6625 1975 6625 2025
 Wire Wire Line
-	6500 1650 6500 1825
+	6500 1825 6500 1650
 Wire Wire Line
-	6050 1650 6500 1650
+	6500 1650 6050 1650
 Wire Wire Line
 	6300 1650 6300 1700
 Wire Wire Line
-	6500 2050 6500 1900
+	6500 1900 6500 2050
 Wire Wire Line
-	6050 2050 6500 2050
+	6500 2050 6050 2050
 Wire Wire Line
 	6300 2050 6300 2000
 Connection ~ 6300 1650
@@ -6784,17 +6784,17 @@ Wire Wire Line
 Wire Wire Line
 	7575 4300 7025 4300
 Wire Wire Line
-	7025 9275 7025 4300
+	7025 4300 7025 9275
 Wire Wire Line
-	6125 9275 7025 9275
+	7025 9275 6125 9275
 Wire Wire Line
 	6450 9325 6450 9275
 Wire Wire Line
 	7575 4375 7100 4375
 Wire Wire Line
-	7100 10425 7100 4375
+	7100 4375 7100 10425
 Wire Wire Line
-	6125 10425 7100 10425
+	7100 10425 6125 10425
 Connection ~ 6400 3775
 Wire Wire Line
 	6400 3200 6400 3125
@@ -7605,4 +7605,7 @@ Text GLabel 14375 6125 2    40   Input ~ 0
 FLASH_RESET
 Wire Wire Line
 	14325 6125 14375 6125
+NoConn ~ 15075 7425
+NoConn ~ 15075 7500
+NoConn ~ 7575 3400
 $EndSCHEMATC
