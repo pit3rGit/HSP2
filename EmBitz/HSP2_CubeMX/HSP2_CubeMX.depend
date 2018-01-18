@@ -1,0 +1,691 @@
+# depslib dependency file v1.0
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l011xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l021xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l031xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l041xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l051xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l052xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l053xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l061xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l062xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l063xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l071xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l072xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l073xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l081xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l082xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\gcc\startup_stm32l083xx.s
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\source\templates\system_stm32l0xx.c
+	"stm32l0xx.h"
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l0xx.h
+	"stm32l011xx.h"
+	"stm32l021xx.h"
+	"stm32l031xx.h"
+	"stm32l041xx.h"
+	"stm32l051xx.h"
+	"stm32l052xx.h"
+	"stm32l053xx.h"
+	"stm32l062xx.h"
+	"stm32l063xx.h"
+	"stm32l061xx.h"
+	"stm32l071xx.h"
+	"stm32l072xx.h"
+	"stm32l073xx.h"
+	"stm32l082xx.h"
+	"stm32l083xx.h"
+	"stm32l081xx.h"
+	"stm32l0xx_hal.h"
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l011xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289099 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\include\core_cm0plus.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1516289099 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\include\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1516289099 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\include\cmsis_armcc.h
+
+1516289099 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\include\cmsis_armcc_v6.h
+
+1516289099 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\include\cmsis_gcc.h
+
+1516289099 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\include\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\system_stm32l0xx.h
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l021xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l031xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l041xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l051xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l052xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l053xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l062xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l063xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l061xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l071xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l072xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l073xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l082xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l083xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289098 d:\github\hsp2\embitz\hsp2_cubemx\drivers\cmsis\device\st\stm32l0xx\include\stm32l081xx.h
+	"core_cm0plus.h"
+	"system_stm32l0xx.h"
+	<stdint.h>
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal.h
+	"stm32l0xx_hal_conf.h"
+
+1516289187 d:\github\hsp2\embitz\hsp2_cubemx\inc\stm32l0xx_hal_conf.h
+	"main.h"
+	"stm32l0xx_hal_rcc.h"
+	"stm32l0xx_hal_gpio.h"
+	"stm32l0xx_hal_dma.h"
+	"stm32l0xx_hal_cortex.h"
+	"stm32l0xx_hal_adc.h"
+	"stm32l0xx_hal_comp.h"
+	"stm32l0xx_hal_crc.h"
+	"stm32l0xx_hal_cryp.h"
+	"stm32l0xx_hal_dac.h"
+	"stm32l0xx_hal_firewall.h"
+	"stm32l0xx_hal_flash.h"
+	"stm32l0xx_hal_i2c.h"
+	"stm32l0xx_hal_i2s.h"
+	"stm32l0xx_hal_iwdg.h"
+	"stm32l0xx_hal_lcd.h"
+	"stm32l0xx_hal_lptim.h"
+	"stm32l0xx_hal_pwr.h"
+	"stm32l0xx_hal_rng.h"
+	"stm32l0xx_hal_rtc.h"
+	"stm32l0xx_hal_spi.h"
+	"stm32l0xx_hal_tim.h"
+	"stm32l0xx_hal_tsc.h"
+	"stm32l0xx_hal_uart.h"
+	"stm32l0xx_hal_usart.h"
+	"stm32l0xx_hal_irda.h"
+	"stm32l0xx_hal_smartcard.h"
+	"stm32l0xx_hal_smbus.h"
+	"stm32l0xx_hal_wwdg.h"
+	"stm32l0xx_hal_pcd.h"
+
+1516289187 d:\github\hsp2\embitz\hsp2_cubemx\inc\main.h
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_rcc.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_rcc_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_def.h
+	"stm32l0xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_rcc_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_gpio.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_gpio_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_gpio_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_dma.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_cortex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_adc.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_adc_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_adc_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_comp.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_comp_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_comp_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_crc.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_crc_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_crc_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_cryp.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_cryp_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_cryp_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_dac.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_dac_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_dac_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_firewall.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_flash.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_flash_ex.h"
+	"stm32l0xx_hal_flash_ramfunc.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_flash_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_flash_ramfunc.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_i2c.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_i2c_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_i2c_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_i2s.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_iwdg.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_lcd.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_lptim.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_lptim_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_lptim_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_pwr.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_pwr_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_pwr_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_rng.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_rtc.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_rtc_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_rtc_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_spi.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_tim.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_tim_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_tim_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_tsc.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_uart.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_uart_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_uart_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_usart.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_usart_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_usart_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_irda.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_irda_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_irda_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_smartcard.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_smartcard_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_smartcard_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_smbus.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_wwdg.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_pcd.h
+	"stm32l0xx_hal_def.h"
+	"stm32l0xx_hal_pcd_ex.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_hal_pcd_ex.h
+	"stm32l0xx_hal_def.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_adc.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_adc_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_comp.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_comp_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_cortex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_crc.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_crc_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_cryp.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_cryp_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_dac.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_dac_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_dma.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_firewall.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_flash.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_flash_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_flash_ramfunc.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_gpio.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_i2c.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_i2c_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_i2s.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_irda.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_iwdg.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_lcd.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_lptim.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_msp_template.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_pcd.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_pcd_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_pwr.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_pwr_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_rcc.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_rcc_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_rng.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_rtc.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_rtc_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_smartcard.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_smartcard_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_smbus.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_spi.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_tim.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_tim_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_tsc.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_uart.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_uart_ex.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_usart.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_hal_wwdg.c
+	"stm32l0xx_hal.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_adc.c
+	"stm32l0xx_ll_adc.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_adc.h
+	"stm32l0xx.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_bus.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_comp.c
+	"stm32l0xx_ll_comp.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_comp.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_crc.c
+	"stm32l0xx_ll_crc.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_crc.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_crs.c
+	"stm32l0xx_ll_crs.h"
+	"stm32l0xx_ll_bus.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_crs.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_dac.c
+	"stm32l0xx_ll_dac.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_dac.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_dma.c
+	"stm32l0xx_ll_dma.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_dma.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_exti.c
+	"stm32l0xx_ll_exti.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_exti.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_gpio.c
+	"stm32l0xx_ll_gpio.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_gpio.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_i2c.c
+	"stm32l0xx_ll_i2c.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_i2c.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_lptim.c
+	"stm32l0xx_ll_lptim.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_lptim.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_lpuart.c
+	"stm32l0xx_ll_lpuart.h"
+	"stm32l0xx_ll_rcc.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_lpuart.h
+	"stm32l0xx.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_rcc.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_pwr.c
+	"stm32l0xx_ll_pwr.h"
+	"stm32l0xx_ll_bus.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_pwr.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_rcc.c
+	"stm32l0xx_ll_rcc.h"
+	"stm32_assert.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_rng.c
+	"stm32l0xx_ll_rng.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_rng.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_rtc.c
+	"stm32l0xx_ll_rtc.h"
+	"stm32l0xx_ll_cortex.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_rtc.h
+	"stm32l0xx.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_cortex.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_spi.c
+	"stm32l0xx_ll_spi.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32l0xx_ll_rcc.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_spi.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_tim.c
+	"stm32l0xx_ll_tim.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_tim.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_usart.c
+	"stm32l0xx_ll_usart.h"
+	"stm32l0xx_ll_rcc.h"
+	"stm32l0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_usart.h
+	"stm32l0xx.h"
+
+1516289100 source:d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\src\stm32l0xx_ll_utils.c
+	"stm32l0xx_ll_rcc.h"
+	"stm32l0xx_ll_utils.h"
+	"stm32l0xx_ll_system.h"
+	"stm32l0xx_ll_pwr.h"
+	"stm32_assert.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_utils.h
+	"stm32l0xx.h"
+
+1516289100 d:\github\hsp2\embitz\hsp2_cubemx\drivers\stm32l0xx_hal_driver\inc\stm32l0xx_ll_system.h
+	"stm32l0xx.h"
+
+1516288363 source:d:\github\hsp2\embitz\hsp2_cubemx\src\startup_stm32l0xx.s
+
+1516289187 source:d:\github\hsp2\embitz\hsp2_cubemx\src\stm32l0xx_hal_msp.c
+	"stm32l0xx_hal.h"
+
+1516289187 source:d:\github\hsp2\embitz\hsp2_cubemx\src\stm32l0xx_it.c
+	"stm32l0xx_hal.h"
+	"stm32l0xx.h"
+	"stm32l0xx_it.h"
+
+1516289187 d:\github\hsp2\embitz\hsp2_cubemx\inc\stm32l0xx_it.h
+	"stm32l0xx_hal.h"
+	"main.h"
+
+1516289098 source:d:\github\hsp2\embitz\hsp2_cubemx\src\system_stm32l0xx.c
+	"stm32l0xx.h"
+
+1516289824 source:d:\github\hsp2\embitz\hsp2_cubemx\src\main.c
+	"main.h"
+	"stm32l0xx_hal.h"
+
